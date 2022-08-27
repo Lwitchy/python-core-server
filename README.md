@@ -1,2 +1,4 @@
-# Core Server By Lwitchy#1935 \n t.me\Lwitchy
-Here Core Server by Lwitchy#1935
+# Core Server By Lwitchy 
+# Discord: Lwitchy#1935
+# Telegram: t.me\Lwitchy
+Here Python Core Server use...
